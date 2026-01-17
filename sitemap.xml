@@ -1,20 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url><loc>https://sites.google.com/view/kenjikagawa/home</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/legal-disclaimers</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/contact</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/resume</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/tip-jar</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/portfolio</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/portfolio/flash</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/portfolio/original-artworks</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/portfolio/art-in-the-making</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/faq</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/shop</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/legal/client-consent-waivers</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/legal/terms-of-service</loc></url>
-  <url><loc>https://sites.google.com/view/kenjikagawa/about/legal/privacy-policy</loc></url>
+  <!-- Home Page -->
+  <url>
+    <loc>https://tinyurl.com/kkagawa</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About / Bio Page -->
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/about</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Booking / Contact Page -->
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/booking</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/faq</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/gallery</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/about/legal/terms-of-service</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/about/legal/privacy-policy</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://sites.google.com/view/kenjikagawa/about/legal/client-consent-waivers</loc>
+    <lastmod>2026-01-16</lastmod>
+    <priority>0.6</priority>
+  </url>
 
 </urlset>
